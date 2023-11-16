@@ -118,7 +118,7 @@ const config = {
               },
               {
                 label: 'Twitter',
-                href: 'https://twitter.com/kryptonnet',
+                href: 'https://twitter.com/kryptonn37',
               },
             ],
           },
